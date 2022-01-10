@@ -1,5 +1,18 @@
 # Team-DreamTeam-
 
+#### Description:
+
+#### Structure of the repository:
 
 
-#test test
+#### Required libraries/programs:
+*-
+*-
+*-
+
+# Description om how to use code:
+
+###Authors:
+*Bram Huis
+*Max Burger
+*Moos Middelkoop
