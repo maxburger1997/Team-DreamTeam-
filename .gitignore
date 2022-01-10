@@ -1,6 +1,9 @@
 # Door Moos toegevoegd
 .DS_Store
 
+# Door Bram toegevoegd
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
