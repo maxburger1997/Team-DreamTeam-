@@ -12,8 +12,8 @@
 
 #### Description om how to use code:
 
-### Authors:
+#### Authors:
 
-*Bram Huis
-*Max Burger
-*Moos Middelkoop
+..*Bram Huis
+..*Max Burger
+..*Moos Middelkoop
