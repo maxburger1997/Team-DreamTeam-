@@ -14,6 +14,6 @@
 
 #### Authors:
 
-⋅⋅* Bram Huis
-⋅⋅* Max Burger
-⋅⋅* Moos Middelkoop
++ Bram Huis
++ Max Burger
++ Moos Middelkoop
